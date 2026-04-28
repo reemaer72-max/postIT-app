@@ -3,7 +3,7 @@ const About = () => {
     <div>
       Rima
       <br />
-      Student
+      Student - softwareenginering
     </div>
   );
 };
