@@ -1,9 +1,9 @@
 const About = () => {
   return (
     <div>
-      Anthony
+      Rima
       <br />
-      IT Lecturer
+      Student
     </div>
   );
 };
